@@ -9,7 +9,7 @@ Welcome to the Basic Tic Tac Toe App! This project is a simple implementation of
 - [Installation](#installation)
 
 ## Demo
-Check out the live demo of the Basic Tic Tac Toe App [basic-java-scipt-tic-tac-toe-app.vercel.app](#).
+Check out the live demo of the Basic Tic Tac Toe App [https://basic-java-scipt-tic-tac-toe-app.vercel.app/](#).
 
 ## Features
 - Two-player game: Players take turns to place their symbol (X or O).
